@@ -19,7 +19,7 @@ The dashboard presents a high-level view of Delta Airlines customer sentiment al
     - Seat comfort
     - Value for money
 
-- **Time-series analysis** of average ratings by month (2015–2026), highlighting long-term trends and periods of volatility.
+- **Time-series analysis** of average ratings by quarter (2015–2026), highlighting long-term trends and periods of volatility.
 
 - **Geographic analysis** showing average ratings by country, allowing for regional comparison of customer experience.
 
