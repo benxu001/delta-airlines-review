@@ -1,4 +1,4 @@
-# Delta Airlines Customer Review Analysis (Tableau)
+# Delta Airlines Customer Review Analysis - Tableau Dashboard
 
 This project explores customer review data for **Delta Airlines** using an interactive Tableau dashboard. The goal is to understand how passenger satisfaction varies across **time, geography, traveler segments, and seat classes**, and to identify which aspects of the travel experience most influence overall ratings and recommendations.
 
